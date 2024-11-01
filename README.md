@@ -10,7 +10,7 @@ This is a gui application that classifies whether an animal is a dog or a cat gi
 - 1 Dense Layer (1 final output neuron)
 
 <div align="center">
-    <img src = "readmeRES/img.png">
+    <img src = "readmeRES/img.png" width = "400", height = "432">
 </div>
 
 For further information about the neural network, look at the file *'build.ipynb'* in the folder *building*.
